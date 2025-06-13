@@ -80,8 +80,8 @@ footer {
 
 @media (max-width: 600) {
     .nes-container {
-        margin: 5rem;
-        padding: 1rem;
+        margin: 10rem;
+        padding: 10rem;
     }
 
     .title {
