@@ -77,3 +77,22 @@ footer {
 #answer-dialog .dialog-menu {
     justify-content: center !important;
 }
+
+@media (max-width: 600) {
+    .nes-container {
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+    .title {
+        font-size: large;
+    }
+    
+    #altMetin {
+        font-size: x-small;
+    }
+
+    #magicBall {
+        width: 15rem; 
+    }
+}
