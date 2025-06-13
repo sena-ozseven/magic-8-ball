@@ -7,7 +7,13 @@ const cevaplar = [
     "kombin yapıp gidersin mesela",
     "o sırada yozgat bozok üniversitesini kazanan sen",
     "you are so back",
-    "benim rüyaların saçmalık seviyesi"
+    "benim rüyaların saçmalık seviyesi",
+    "ben kutlamıorum",
+    "biz geç kalıcaz arkadaşlar",
+    "amin",
+    "ben kadınım",
+    "hayır kapatma hayır hayır",
+    "fare firavun faresi",
 ];
 
 const magicBall = document.getElementById("magicBall");
